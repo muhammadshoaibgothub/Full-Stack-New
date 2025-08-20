@@ -16,11 +16,7 @@ My focus is:
 
 ---
 
-## 📅 Timeline
-- **August 2025:** JavaScript (revision + projects)  
-- **September 2025:** Next.js + MERN + DevOps + Job Applications  
 
----
 
 
 
