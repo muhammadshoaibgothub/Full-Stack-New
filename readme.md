@@ -6,7 +6,7 @@ This repository will include **daily notes, mini-projects, and resources** I use
 ---
 
 ## 📌 About This Journey
-I have experience with MERN stack, but now I am restarting with **consistency, structured learning, and public sharing**.  
+I have started with **consistency, structured learning, and public sharing**.  
 My focus is:  
 - Strengthen **JavaScript fundamentals** (with projects)  
 - Learn & build with **Next.js**  
@@ -15,6 +15,7 @@ My focus is:
 - Share progress daily on **LinkedIn, Twitter, Facebook, Instagram**  
 
 ---
+
 
 
 
